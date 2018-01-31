@@ -1,5 +1,6 @@
 # BannerViewPagerApp
-Banner3d效果
+Banner3d效果,公司UI需求，整理记录，参考
+https://github.com/pinguo-zhouwei/MZBannerView
 ```
 引用：
 compile 'com.github.ZHBoy:BannerViewPagerApp:v1.0'

@@ -149,6 +149,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
+https://github.com/ZHBoy/BannerViewPagerApp/blob/master/bitmap/Gif_20180206_151558.gif
 
 
